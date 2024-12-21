@@ -24,9 +24,9 @@ I'm currently working on several projects to explore AI's educational potential:
 
 You totally could, but building bespoke wrappers has some advantages.  While these projects fundamentally rely on the same AI technology available through chatgpt.com or claude.ai, they offer distinct advantages through thoughtful UI/UX design. The value comes from things like:
 
-1. **Hidden Chain of Thought (CoT)**: While CoT prompting enhances AI reasoning, I deliberately hide intermediate reasoning steps that might:
+1. **Hidden Chain of Thought (CoT)**: CoT prompting enhances performance in reasoning dependent tasks. I deliberately hide CoT tokens that might:
    - Reveal answers students should discover independently
-   - Distract from the learning process
+   - Distract from the learning flow
 
 2. **Enhancing Response Quality**: I employ techniques like "cleaning" articles before upload, removing irrelevant content to help the AI focus on tutorial-relevant material, potentially improving both performance and speed. I plan to experiment with many other such techniques
 
