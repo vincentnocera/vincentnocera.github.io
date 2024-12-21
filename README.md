@@ -28,7 +28,7 @@ While these projects fundamentally rely on the same AI technology available thro
    - Reveal answers students should discover independently
    - Distract from the learning process
 
-2. **Enhanced Response Quality**: I employ techniques like "cleaning" articles before upload, removing irrelevant content to help the AI focus on tutorial-relevant material, potentially improving both performance and speed
+2. **Techniques to Enhance Response Quality**: I employ techniques like "cleaning" articles before upload, removing irrelevant content to help the AI focus on tutorial-relevant material, potentially improving both performance and speed, and plan to experiment with many other such techniques
 
 3. **Reduced Friction**: By handling the technical details—curating articles, optimizing prompts, selecting the best AI models for specific tasks—I lower barriers to engagement. This matters because educational tools only work if people actually use them
 
