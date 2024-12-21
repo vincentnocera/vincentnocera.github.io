@@ -22,7 +22,7 @@ I'm currently working on several projects to explore AI's educational potential:
 
 ## Beyond Basic AI Chat Interfaces
 
-While these projects fundamentally rely on the same AI technology available through chatgpt.com or claude.ai, they offer distinct advantages through thoughtful UI/UX design. The value comes from:
+While these projects fundamentally rely on the same AI technology available through chatgpt.com or claude.ai, they offer distinct advantages through thoughtful UI/UX design. The value comes from things like:
 
 1. **Hidden Chain of Thought (CoT)**: While CoT prompting enhances AI reasoning, I deliberately hide intermediate reasoning steps that might:
    - Reveal answers students should discover independently
