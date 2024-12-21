@@ -20,7 +20,7 @@ In 1984, psychologist Benjamin Bloom described the "Two Sigma Problem": one on o
 
 Below are a list of initial experiments I have begun to create:
 
-1. A [website](twosigmalearning.org) which engages the user in case-based learning covering medical review articles I provide it. 
+1. A [website](https://twosigmalearning.org) which engages the user in case-based learning covering medical review articles I provide it. 
 2. A chrome extension which, with the click of a button, creates an exhaustive set of flashcards of the content on screen, which are then download for easy importing into Anki.
 3. A website which provides Socratic tutorials of psychotherapy theory; I have found the ideal behavior for such tutorials to be quite different than the medically focused case-based learning mentioned above.
 
