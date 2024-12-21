@@ -6,7 +6,7 @@ Can we use AI to learn more efficiently and effectively?
 
 Hi, I'm Vince, a fourth-year psychiatry resident. I've always been fascinated by how humans learn and frustrated by the inertia of our educational system. I believe AI has the potential to dramatically increase the pace and depth of human learning. This blog will serve as a journal of my experiments in using AI in medical education specifically.
 
-## The Two Sigma Problem and AI's Promise
+## The Potential
 
 In 1984, psychologist Benjamin Bloom described the "Two Sigma Problem": one-on-one tutoring yields outcomes two standard deviations better than classroom learning but is, for obvious reasons, impractical to scale. Recently, AI systems have emerged that can answer challenging, reasoning-based questions (not just memorization) in physics, math, coding, biology, chemistry, and more—often surpassing human experts.
 
@@ -20,9 +20,9 @@ I'm currently working on several projects to explore AI's educational potential:
 2. A Chrome extension that instantly generates comprehensive Anki flashcards from any webpage content
 3. A platform providing Socratic tutorials on psychotherapy theory, using interaction patterns distinct from the medical case-based learning approach
 
-## Beyond Basic AI Chat Interfaces
+## Why not just use ChatGPT?
 
-While these projects fundamentally rely on the same AI technology available through chatgpt.com or claude.ai, they offer distinct advantages through thoughtful UI/UX design. The value comes from things like:
+You totally could, but building bespoke wrappers has some advantages.  While these projects fundamentally rely on the same AI technology available through chatgpt.com or claude.ai, they offer distinct advantages through thoughtful UI/UX design. The value comes from things like:
 
 1. **Hidden Chain of Thought (CoT)**: While CoT prompting enhances AI reasoning, I deliberately hide intermediate reasoning steps that might:
    - Reveal answers students should discover independently
@@ -32,7 +32,7 @@ While these projects fundamentally rely on the same AI technology available thro
 
 3. **Reduced Friction**: By handling the technical details—curating articles, optimizing prompts, selecting the best AI models for specific tasks—I lower barriers to engagement. This matters because educational tools only work if people actually use them
 
-## Open Source Commitment
+## Commitment to Openness
 
 While my code is currently private (mainly to avoid security issues like exposed API keys), I'm committed to making it publicly accessible. My goal is to enhance human cognitive capabilities, and I welcome collaboration with others who share this vision. I have no intention of restricting access to potentially useful intellectual property.
 
