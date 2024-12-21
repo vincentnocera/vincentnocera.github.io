@@ -34,6 +34,6 @@ You totally could, but building bespoke wrappers has some advantages.  While the
 
 ## Commitment to Openness
 
-While my code is currently private (mainly to avoid security issues like exposed API keys), I'm committed to making it publicly accessible. My goal is to enhance human cognitive capabilities, and I welcome collaboration with others who share this vision. I have no intention of restricting access to potentially useful intellectual property.
+While my code is currently private (mainly to avoid silly issues like exposed API keys that I haven't checked for or other issues I haven't thought about yet), I'm committed to making it publicly accessible. My goal is to enhance human cognitive capabilities, and I welcome collaboration with others who share this vision. I have no intention of restricting access to potentially useful intellectual property.
 
 *Note: I'm working on properly open-sourcing the code and will update when that's available.*
