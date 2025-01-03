@@ -36,4 +36,4 @@ You totally could, but building bespoke wrappers has some advantages.  While the
 
 While my code is currently private (mainly to avoid silly issues like exposed API keys that I haven't checked for, or other issues I haven't thought about yet), I'm committed to making it publicly accessible. My goal is to enhance human cognitive capabilities, and I welcome collaboration with others who share this vision. I have no intention of restricting access to potentially useful intellectual property.
 
-*Note: I'm working on properly open-sourcing my code for various projects and will update when that's available.*
+*Update: As of 1/2/2025 code for main project now public and open source, under MIT license.*
