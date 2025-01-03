@@ -16,7 +16,7 @@ While current AI systems have important limitations (particularly in completing 
 
 I'm currently working on several projects to explore AI's educational potential:
 
-1. A [website](https://twosigmalearning.org) that engages users in case-based learning using medical review articles
+1. A [website](https://peakshift.org) that engages users in case-based learning using medical review articles
 2. A Chrome extension that instantly generates comprehensive Anki flashcards from any webpage content
 3. A platform providing Socratic tutorials on psychotherapy theory, using interaction patterns distinct from the medical case-based learning approach
 
